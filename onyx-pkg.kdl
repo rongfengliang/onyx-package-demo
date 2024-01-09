@@ -3,7 +3,7 @@ package {
     author "dalongdemo" 
     url "https://github.com/rongfengliang/onyx-package-demo" 
     description "dalongdemo" 
-    version "main" 
+    version "1.0.0" 
 }
 
 config {
