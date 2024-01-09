@@ -1,0 +1,13 @@
+package {
+    name "dalongdemo" 
+    author "dalongdemo" 
+    url "https://github.com/rongfengliang/onyx-package-demo" 
+    description "dalongdemo" 
+    version "0.0.1" 
+}
+
+config {
+    dependency_source_path "./lib" 
+    dependency_binary_path "./bin" 
+}
+
