@@ -1,15 +1,7 @@
 package dalongdemo
 
-HTTP_Method :: enum {
-    UNKNOWN;
-    GET;
-    HEAD;
-    POST;
-    PUT;
-    DELETE;
-    CONNECT;
-    OPTIONS;
-    TRACE;
-    PATCH;
-    ALL;
+use core {printf}
+
+demoapp ::(){
+    printf("hello world");
 }
